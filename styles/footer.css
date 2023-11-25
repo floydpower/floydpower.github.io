@@ -1,0 +1,11 @@
+footer {
+  background-image: linear-gradient(-53deg, #00b7d3 0%, #1ce8b5 100%);
+  height: 300px;
+  font-family: "Railway";
+}
+
+.footer-title {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
